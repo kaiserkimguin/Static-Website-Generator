@@ -2,5 +2,4 @@
 __pycache__/
 # this is the file i use to test stuff on a small scale
 ausprobieren.ipynb
-# this is generated stuff. it should not be published since it can easily be reproduced
-public/
+
